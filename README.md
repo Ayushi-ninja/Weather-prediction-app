@@ -1,7 +1,5 @@
 “This project was part of my 10-day Add-on Course on Microsoft Azure AI-102.”
 
-Just copy and paste this into your GitHub README.
-
 🌦 Weather Prediction App
 
 A project developed as part of my 10-day Add-on Course on Microsoft Azure AI-102
