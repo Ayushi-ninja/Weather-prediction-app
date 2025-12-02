@@ -99,4 +99,4 @@ Contributions, improvements, and suggestions are most welcome!
 
 👤 Author
 
-Ayushi-ninja
+Ayushi Rajput
